@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\lliu2\Documents\VuGen\Scripts\passlightstreamer
--IC:\Program Files (x86)\HP\LoadRunner\include
--ec:\users\lliu2\documents\vugen\scripts\passlightstreamer\\logfile.log
-c:\users\lliu2\documents\vugen\scripts\passlightstreamer\\combined_passlightstreamer.c
-c:\users\lliu2\documents\vugen\scripts\passlightstreamer\\pre_cci.c
