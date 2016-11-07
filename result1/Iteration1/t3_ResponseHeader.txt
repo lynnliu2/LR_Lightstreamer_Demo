@@ -1,9 +1,0 @@
-HTTP/1.1 101 Switching Protocols
-Server: Lightstreamer-Server/6.0.2 build 1793 (Lightstreamer Server - www.lightstreamer.com) Vivace edition
-Connection: Upgrade
-Upgrade: websocket
-Sec-WebSocket-Accept: zZvm6ThhyqFEarIdyA8d+YOv4UA=
-Sec-WebSocket-Version: 13
-Sec-WebSocket-Protocol: js.lightstreamer.com
-Date: Mon, 25 Apr 2016 08:53:48 GMT
-
