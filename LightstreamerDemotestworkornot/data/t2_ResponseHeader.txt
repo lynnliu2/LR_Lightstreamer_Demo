@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Lightstreamer-Server/6.0.2 build 1793 (Lightstreamer Server - www.lightstreamer.com) Vivace edition
+Content-Type: text/javascript; charset=iso-8859-1
+Cache-Control: no-store
+Cache-Control: no-transform
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: Thu, 1 Jan 1970 00:00:00 GMT
+Date: Mon, 25 Apr 2016 07:52:19 GMT
+Content-Length: 370
+Access-Control-Allow-Origin: http://demos.lightstreamer.com
+Access-Control-Allow-Credentials: true
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+

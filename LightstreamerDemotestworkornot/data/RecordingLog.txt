@@ -1,0 +1,163 @@
+[API Trapper      (4890:2734)] Recording in 32-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (82ec:8a58)] Recording in 32-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (4890:72ec)] ------------------------------------------------------------------------------------------
+[Network Analyzer (4890:72ec)] Load Network Traffic Analyzers:
+[Network Analyzer (4890:72ec)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (4890:72ec)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (4890:72ec)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (4890:72ec)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (4890:72ec)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (4890:72ec)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (4890:72ec)]     Analyzer Module: local_server (value=)
+[Network Analyzer (4890:72ec)] ------------------------------------------------------------------------------------------
+[Network Analyzer (4890:447c)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:72ec)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:72ec)] Request Connection: Remote Server @ 16.173.161.190:135   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (4890:447c)]   (Sid:  1) Client -> Server @ : 116 bytes 
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.193.228.50:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:447c)]   (Sid:  1) Server -> Client : 84 bytes 
+[Network Analyzer (4890:447c)]   (Sid:  1) Client -> Server @ : 156 bytes 
+[Network Analyzer (4890:447c)]   (Sid:  1) Server -> Client : 240 bytes 
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.193.228.50:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:72ec)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:72ec)] Request Connection: Remote Server @ 16.173.161.190:49157   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (4890:447c)]   (Sid:  4) Client -> Server @ : 3526 bytes 
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.193.228.50:80   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (4890:447c)] "GET /"   
+[Network Analyzer (4890:447c)]   (Sid:  2) Client -> Server @ : 226 bytes (Service=HTTP)
+[Web Request      (4890:447c)] "GET /"   
+[Network Analyzer (4890:447c)]   (Sid:  3) Client -> Server @ : 226 bytes (Service=HTTP)
+[Web Request      (4890:447c)] "GET /"   
+[Network Analyzer (4890:447c)]   (Sid:  5) Client -> Server @ : 226 bytes (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  4) Server -> Client : 261 bytes 
+[Network Analyzer (4890:447c)]   (Sid:  4) Client -> Server @ : 220 bytes 
+[Network Analyzer (4890:447c)]   (Sid:  4) Server -> Client : 105 bytes 
+[Network Analyzer (4890:447c)]   (Sid:  2) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  2) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  3) Server -> Client : 11680 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  5) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  4) Client -> Server @ : 252 bytes 
+[Network Analyzer (4890:447c)]   (Sid:  4) Server -> Client : 204 bytes 
+[Network Analyzer (4890:447c)]   (Sid:  4) Client -> Server @ : 140 bytes 
+[Network Analyzer (4890:447c)]   (Sid:  2) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  2) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  3) Server -> Client : 8000 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  5) Server -> Client : 5840 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  4) Server -> Client : 140 bytes 
+[Network Analyzer (4890:447c)]   (Sid:  2) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  2) Server -> Client : 8000 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  5) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  5) Server -> Client : 8000 bytes  (Service=HTTP)
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.172.244.14:8080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.172.244.14:8080   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.172.244.14:8080   (Service=)  (Sid=  8)  PROXIED!
+[Web Request      (4890:447c)] "CONNECT clients4.google.com:443"   
+[Network Analyzer (4890:447c)]   (Sid:  6) Client -> Server @ : 228 bytes (Service=HTTP)
+[Web Request      (4890:447c)] "CONNECT translate.googleapis.com:443"   
+[Network Analyzer (4890:447c)]   (Sid:  7) Client -> Server @ : 238 bytes (Service=HTTP)
+[Web Request      (4890:447c)] "GET http://demos.lightstreamer.com/StockListDemo_Basic"   
+[Network Analyzer (4890:447c)]   (Sid:  8) Client -> Server @ : 436 bytes (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  8) Server -> Client : 803 bytes  (Service=HTTP)
+[Web Request      (4890:447c)] "GET http://demos.lightstreamer.com/StockListDemo_Basic/"   
+[Network Analyzer (4890:447c)]   (Sid:  8) Client -> Server @ : 590 bytes (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  8) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  8) Server -> Client : 1774 bytes  (Service=HTTP)
+[Web Request      (4890:447c)] "GET http://demos.lightstreamer.com/StockListDemo_Basic/css/table.css"   
+[Network Analyzer (4890:447c)]   (Sid:  8) Client -> Server @ : 579 bytes (Service=HTTP)
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:447c)]   (Sid:  8) Server -> Client : 1113 bytes  (Service=HTTP)
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.172.244.14:8080   (Service=)  (Sid=  9)  PROXIED!
+[Web Request      (4890:447c)] "GET http://demos.lightstreamer.com/commons/lightstreamer.js"   
+[Network Analyzer (4890:447c)]   (Sid:  8) Client -> Server @ : 555 bytes (Service=HTTP)
+[Web Request      (4890:447c)] "GET http://demos.lightstreamer.com/commons/require.js"   
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:447c)]   (Sid:  9) Client -> Server @ : 549 bytes (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  8) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  8) Server -> Client : 8320 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  9) Server -> Client : 4080 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  9) Server -> Client : 2440 bytes  (Service=HTTP)
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.172.244.14:8080   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (4890:447c)]   (Sid:  8) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (4890:447c)] "GET http://demos.lightstreamer.com/commons/extra.js"   
+[Network Analyzer (4890:447c)]   (Sid: 10) Client -> Server @ : 547 bytes (Service=HTTP)
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:447c)]   (Sid: 10) Server -> Client : 1360 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid: 10) Server -> Client : 2063 bytes  (Service=HTTP)
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.172.244.14:8080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (4890:447c)]   (Sid:  8) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (4890:447c)] "GET http://demos.lightstreamer.com/StockListDemo_Basic/images/logo.png"   
+[Network Analyzer (4890:447c)]   (Sid: 11) Client -> Server @ : 591 bytes (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  8) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  8) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid: 11) Server -> Client : 5440 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid: 11) Server -> Client : 2550 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid:  8) Server -> Client : 7992 bytes  (Service=HTTP)
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.172.244.14:8080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Web Request      (4890:447c)] "CONNECT s3.amazonaws.com:443"   
+[Network Analyzer (4890:447c)]   (Sid: 12) Client -> Server @ : 222 bytes (Service=HTTP)
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.172.244.14:8080   (Service=)  (Sid= 13)  PROXIED!
+[Web Request      (4890:447c)] "POST http://push.lightstreamer.com/lightstreamer/create_session.js"   
+[Network Analyzer (4890:447c)]   (Sid: 13) Client -> Server @ : 718 bytes (Service=HTTP)
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.172.244.14:8080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (4890:447c)]   (Sid: 13) Server -> Client : 899 bytes  (Service=HTTP)
+[Web Request      (4890:447c)] "CONNECT push.lightstreamer.com:80"   
+[Network Analyzer (4890:447c)]   (Sid: 14) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 39 bytes 
+[Web Request      (4890:447c)] "GET /lightstreamer"   
+[Network Analyzer (4890:447c)]   (Sid: 14) Client -> Server @ : 567 bytes (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 348 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid: 14) WebSocket handshake detected, switching connection type from HTTP to WebSocket
+[Network Analyzer (4890:447c)]   (Sid: 14) Client -> Server @ : 131 bytes (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Client -> Server @ : 384 bytes (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 1360 bytes  (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 864 bytes  (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 1092 bytes  (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 71 bytes  (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 72 bytes  (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 64 bytes  (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 64 bytes  (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 52 bytes  (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 73 bytes  (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 72 bytes  (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 68 bytes  (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 63 bytes  (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 72 bytes  (Service=WEBS)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 56 bytes  (Service=WEBS)
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.172.244.14:8080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.172.244.14:8080   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.172.244.14:8080   (Service=)  (Sid= 17)  PROXIED!
+[Web Request      (4890:447c)] "HEAD http://paohpvhpmgki/"   
+[Network Analyzer (4890:447c)]   (Sid: 15) Client -> Server @ : 243 bytes (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 72 bytes  (Service=WEBS)
+[Web Request      (4890:447c)] "HEAD http://sbtaloo/"   
+[Network Analyzer (4890:447c)]   (Sid: 16) Client -> Server @ : 233 bytes (Service=HTTP)
+[Web Request      (4890:447c)] "HEAD http://uyjxkpjbrveizu/"   
+[Network Analyzer (4890:447c)]   (Sid: 17) Client -> Server @ : 247 bytes (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 70 bytes  (Service=WEBS)
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.172.244.14:8080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (4890:58ac)] Address lookup for LLIU217 = 15.107.9.72
+[Web Request      (4890:447c)] "CONNECT ssl.gstatic.com:443"   
+[Network Analyzer (4890:447c)]   (Sid: 18) Client -> Server @ : 220 bytes (Service=HTTP)
+[Network Analyzer (4890:58ac)] Request Connection: Remote Server @ 16.172.244.14:8080   (Service=)  (Sid= 19)  PROXIED!
+[Web Request      (4890:447c)] "CONNECT ssl.gstatic.com:443"   
+[Network Analyzer (4890:447c)]   (Sid: 19) Client -> Server @ : 220 bytes (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid: 16) Server -> Client : 184 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid: 16) Connection Terminated (by Server)
+[Network Analyzer (4890:447c)]   (Sid: 15) Server -> Client : 184 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid: 15) Connection Terminated (by Server)
+[Network Analyzer (4890:447c)]   (Sid: 17) Server -> Client : 184 bytes  (Service=HTTP)
+[Network Analyzer (4890:447c)]   (Sid: 17) Connection Terminated (by Server)
+[Network Analyzer (4890:447c)]   (Sid: 14) Server -> Client : 71 bytes  (Service=WEBS)

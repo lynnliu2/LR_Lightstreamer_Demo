@@ -1,0 +1,14 @@
+var myEnv = lsc;
+var phase = null;
+function setPhase(ph) {
+ phase = ph;
+}
+
+function start(sID, addr, kaMs, reqLim, srv, ip) {
+ LS_window.LS_e(1, phase, sID, addr, kaMs, reqLim, srv, ip);
+}
+
+function loop(holdMs) {
+ LS_window.LS_e(2, phase, holdMs);
+}
+setPhase(8101);start('Sf3e4334658251647T5348260', null, 0, 50000, 'Lightstreamer HTTP Server', '180.167.7.201');loop(0);
