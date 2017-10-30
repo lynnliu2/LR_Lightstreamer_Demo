@@ -1,0 +1,14 @@
+[DATA_POINT]
+1="MQTT_connect_duration"
+2="MQTT_publish_duration"
+3="MQTT_publish"
+4="MQTT_receipt"
+5="MQTT_publish_payload"
+6="MQTT_receipt_payload"
+7="MQTT_connection"
+8="MQTT_inflight_message"
+9="MQTT_connect_success"
+[END_TRANSACTION]
+1="vuser_init_Transaction"
+2="Action_Transaction"
+3="vuser_end_Transaction"

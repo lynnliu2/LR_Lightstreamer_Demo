@@ -1,0 +1,9 @@
+Virtual User Script started at: 23/10/2017 13:56:49
+Starting action vuser_init.
+23/10/2017 13:56:49 vuser_init.c(4): Created new connection
+23/10/2017 13:56:49 vuser_init.c(13): Set TLS certificate parameters: certificate path '<path to a certificate file, e.g. cert.pem>', private key path '<path to a private key file, e.g. key.pem>', password ******
+23/10/2017 13:56:49 vuser_init.c(14): Set TLS parameters to TLS1.1 : ALL
+23/10/2017 13:56:49 vuser_init.c(17): Assigned Client ID: test_client13440
+23/10/2017 13:56:49 vuser_init.c(17): Connecting to ssl://172.31.20.92:8883
+23/10/2017 13:56:49 vuser_init.c(17): Error: MQTT Client failure (Connect->Set TLS certificate option: Invalid function arguments provided. Error code 0x00000003)
+Abort was called from an action.

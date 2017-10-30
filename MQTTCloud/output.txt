@@ -1,0 +1,7 @@
+Virtual User Script started at: 23/10/2017 17:08:55
+Starting action vuser_init.
+23/10/2017 17:08:55 vuser_init.c(4): Created new connection
+23/10/2017 17:08:55 vuser_init.c(17): Assigned Client ID: test_client8236
+23/10/2017 17:08:55 vuser_init.c(17): Connecting to tcp://52.77.246.69:1883
+23/10/2017 17:09:17 vuser_init.c(17): Warning: Connection lost. Reconnecting in 5000 milliseconds...
+Abort was called from an action.
